@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/marciotakeda?logo=github&style=for-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="file:///C:/Users/User/Desktop/selenium.svg" width="36" height="36" alt="Selenium" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" width="36" height="36" alt="Selenium" /></a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="file:///C:/Users/User/Desktop/cucumber.svg" width="36" height="36" alt="Cucumber" /></a>
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Robotframework" /></a>
 
