@@ -11,10 +11,10 @@ Atualmente estou trabalhando como desenvolvedor PL/SQS e em busca de uma oportun
 
 * 🌍  Moro em São paulo, Brasil.
 * ✉️  Você pode me contactar [marciotakeda@gmail.com](mailto:marciotakeda@gmail.com)
-* 🚀  Atualmente estou trabalhando na DELPHOS.
+* 💻  Atualmente estou trabalhando na DELPHOS.
 * 🧠  Tenho conhecimentos em lógica de programação | processos agéis | cenários de testes | testes automatizados | BDD
 * 🤝  Sou curioso por tecnologia e gostaria de trabalhar onde possa aprender e ajudar as pessoas. 
-* ⚡  Sou apaixonado por esportes e também sou formado em Educação Física e sou professor de Taekwondo.
+* 🥋  Sou apaixonado por esportes e também sou formado em Educação Física e sou professor de Taekwondo.
 
 <a href="https://www.github.com/marciotakeda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marciotakeda?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
