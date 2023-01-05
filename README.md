@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/marciotakeda?logo=github&style=for-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="50" height="36" alt="Oracle" /></a>
+<a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="65" height="36" alt="Oracle" /></a>
   
 
 ### Socials
